@@ -4,6 +4,11 @@ As the XUMM ecosystem relies on a combination of code repositories (App, Develop
 
 For end user support, or to learn more about contributing (eg. translating) and for XUMM Developer Resources, [please visit the FAQ](https://support.xumm.app/en/).
 
+# XUMM public beta
+
+More information:
+ - https://xumm.dev/beta
+
 ### Where to check reports, report & track progress
 
 - [Suggest new features or improvements](https://xrpl-labs.canny.io/xumm)
