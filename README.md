@@ -2,10 +2,7 @@
 
 As the XUMM ecosystem relies on a combination of code repositories (App, Developer Console, etc.) this central repository will be used to centrally track bugs, improvements, suggestions &amp; release progress (using Projects & Project Boards).
 
-# XUMM public beta
-
-More information:
- - https://xumm.dev/beta
+- https://support.xumm.app
 
 # Where to go from here
 
