@@ -4,6 +4,10 @@ As the XUMM ecosystem relies on a combination of code repositories (App, Develop
 
 - https://support.xumm.app
 
+# XRPL Labs (XUMM) Responsible Disclosure
+
+See [RESPONSIBLE-DISCLOSURE.md](RESPONSIBLE-DISCLOSURE.md)
+
 # Where to go from here
 
 - [Suggest new features or improvements & upvote](https://xrpl-labs.canny.io/xumm)
