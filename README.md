@@ -4,7 +4,7 @@ As the XUMM ecosystem relies on a combination of code repositories (App, Develop
 
 - https://support.xumm.app
 
-### Issues (issue tracker) vs. Developer Questions
+# Issues (issue tracker) vs. Developer Questions
 
 Potential bugs, feature requests, technical suggestions, etc. belong here. If you are a developer and have questions about the XRP Ledger and Xumm, questions about integrations, etc., this is not the right place. Instead, check out the "Developer Questions" board at: https://xumm.readme.io/discuss
 
