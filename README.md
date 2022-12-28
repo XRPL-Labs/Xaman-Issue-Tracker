@@ -14,7 +14,7 @@ See [RESPONSIBLE-DISCLOSURE.md](RESPONSIBLE-DISCLOSURE.md)
 
 # Where to go from here
 
-- [Read the FAQ (users, contributing & developers)](https://support.xumm.app/)
+- [Ask/read Developer questions](https://xumm.readme.io/discuss)
 - [Progress & roadmap](https://github.com/XRPL-Labs/XUMM-Issue-Tracker/projects/7)
 - [Developers: approved feature requests & confirmed bugs (Issues)](https://github.com/XRPL-Labs/XUMM-Issue-Tracker/issues)
 
