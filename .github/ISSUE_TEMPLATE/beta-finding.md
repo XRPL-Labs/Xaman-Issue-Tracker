@@ -3,7 +3,7 @@ name: Xaman Beta Finding
 about: Report an issue found during private Beta testing
 title: "[Beta]"
 labels: 'beta'
-assignees: '@n3tc4t'
+assignees: 'n3tc4t,wietsewind'
 
 ---
 
