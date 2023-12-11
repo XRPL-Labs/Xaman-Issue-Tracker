@@ -1,8 +1,8 @@
 ---
 name: Xaman Beta Finding
 about: Report an issue found during private Beta testing
-title: "[Beta]"
-labels: 'beta'
+title: "[Beta Finding] "
+labels: 'Beta'
 assignees: 'n3tc4t,wietsewind'
 
 ---
