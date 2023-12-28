@@ -25,9 +25,9 @@ If applicable, add screenshots or a video to help explain your problem.
 
 ### Environment
 
-What build of XUMM are you running? Please provide the full version (you can find it in Settings > Advanced).
+What build of Xaman are you running? Please provide the full version (you can find it in Settings > Advanced).
 
-* XUMM version: [FILL THIS OUT]
+* Xaman version: [FILL THIS OUT]
 
 What device are you running XUMM on?
 
