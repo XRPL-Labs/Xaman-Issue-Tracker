@@ -57,6 +57,7 @@ For these complaints or reports, please [contact our support team](https://suppo
 - Vulnerability scan reports for software we publicly use
 - Security issues related to outdated OS's, browsers or plugins
 - Reports for security problems that we have been notified of before
+- Problems only surfacing in "modified/forced environments" an end user would never use. For example: if something can only be exploited in a Virtual Machine / Debug Environment or on a Rooted/Jailbroken device, an environment no end user would ever use, the finding is excluded from the bug bounty program. We'd still happily receive your report though.
 
 Please note: Reports that are lacking any proof (such as screenshots or other data), detailed information or details on how to reproduce any unexpected result will be investigated but will not be eligible for any reward.
 
