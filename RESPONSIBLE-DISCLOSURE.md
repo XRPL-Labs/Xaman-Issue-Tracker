@@ -1,8 +1,8 @@
-# XRPL Labs (XUMM) Responsible Disclosure
+# XRPL Labs (Xaman) Responsible Disclosure
 
 ## Responsible disclosure policy
 
-At [XRPL Labs](https://xrpl-labs.com) ([XUMM](https://xumm.app)) we believe that the security of our systems is extremely important.
+At [XRPL Labs](https://xrpl-labs.com) ([Xaman](https://xaman.app)) we believe that the security of our systems is extremely important.
 
 Despite our concern for the security of our systems during product development and maintenance, there's always the possibility of someone finding something we need to improve / update / change / fix / ...
 
@@ -10,7 +10,7 @@ We appreciate you notifying us if you found a weak point in one of our systems a
 
 ## How to report
 
-If you believe you found a security issue in one of our systems, please notify us as soon as possible by [sending a ticket using our support portal](https://support.xumm.app/hc/en-us/requests/new).
+If you believe you found a security issue in one of our systems, please notify us as soon as possible by sending a support request per email: [support] @ [xaman.app]
 
 ## Rules
 
@@ -40,11 +40,11 @@ This responsible disclosure policy is not an open invitation to actively scan ou
 - Phishing reports
 - Fraud reports
 
-For these complaints or reports, please [contact our support team](https://support.xumm.app/hc/en-us/requests/new).
+For these complaints or reports, please contact our support team: [support] @ [xaman.app]
 
 ## Bug bounty program
 
-[XRPL Labs](https://xrpl-labs.com) ([XUMM](https://xumm.app)) encourages the reporting of security issues or vulnerabilities. We may make an appropriate reward for confidential disclosure of any design or implementation issue that could be used to compromise the confidentiality or integrity of our users' data that was not yet known to us. We decide whether the report is eligible and the amount of the reward.
+[XRPL Labs](https://xrpl-labs.com) ([Xaman](https://xaman.app)) encourages the reporting of security issues or vulnerabilities. We may make an appropriate reward for confidential disclosure of any design or implementation issue that could be used to compromise the confidentiality or integrity of our users' data that was not yet known to us. We decide whether the report is eligible and the amount of the reward.
 
 ## Exclusions
 
